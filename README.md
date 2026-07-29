@@ -67,3 +67,7 @@ To analyse employee attrition patterns based on department, job role, age group,
 - Dashboard Design
 - Data Visualisation
 - HR Analytics
+
+## 📊 Dashboard Preview
+
+![Dashboard Preview](DashBoard.png)

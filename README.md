@@ -71,3 +71,11 @@ To analyse employee attrition patterns based on department, job role, age group,
 ## 📊 Dashboard Preview
 
 ![Dashboard Preview](DashBoard.png)
+
+## 📊 Dashboard Preview
+
+<a href="./DashBoard.png">
+  <img src="./DashBoard.png" alt="Dashboard Preview" width="900"/>
+</a>
+
+🔗 **View Full Dashboard Image:** [Click Here](./DashBoard.png)

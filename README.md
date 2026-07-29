@@ -24,7 +24,7 @@ To analyse employee attrition patterns based on department, job role, age group,
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](DashBoard.png)
 
 ---
 
